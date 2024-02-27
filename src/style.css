@@ -1,0 +1,25 @@
+#output {
+  margin: 0 auto;
+  text-align: center;
+  width: 650px;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+em {
+  background-color: #1e3153;
+  color: #ffffff;
+  padding: 6px 15px;
+  border-radius: 15px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.description {
+  text-align: left;
+  padding-left: 70px;
+  text-transform: capitalize;
+}
